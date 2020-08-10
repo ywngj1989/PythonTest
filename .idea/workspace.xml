@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af96024f-2d84-47ef-a6a6-cec6e256ddd7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PythonTest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unitestdemos/ut_demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/APITest/Login.py" />
+        <option value="$PROJECT_DIR$/testcases/weiixn/test_send_test_msg.py" />
+        <option value="$PROJECT_DIR$/testcases/weiixn/test_upload_image.py" />
+        <option value="$PROJECT_DIR$/src/testcases/api/report/test_pydemo.py" />
+        <option value="$PROJECT_DIR$/src/testcases/api/test_para_demo.py" />
+        <option value="$PROJECT_DIR$/src/testcases/api/test_pytest_assume.py" />
+        <option value="$PROJECT_DIR$/src/testcases/api/test_rerun_demo.py" />
+        <option value="$PROJECT_DIR$/src/testcases/test_pytest_object.py" />
+        <option value="$PROJECT_DIR$/src/testcases/api/report/test_pytest_object.py" />
+        <option value="$PROJECT_DIR$/src/testcases/api/report/test_pytest_param.py" />
+        <option value="$PROJECT_DIR$/src/testcases/api/test_pytest_param.py" />
+        <option value="$PROJECT_DIR$/src/testcases/api/calc.json" />
+        <option value="$PROJECT_DIR$/src/testcases/api/test_calc_param.py" />
+        <option value="$PROJECT_DIR$/src/testcases/api/test_yaml.py" />
+        <option value="$PROJECT_DIR$/src/testcases/api/test_pytest_object.py" />
+        <option value="$PROJECT_DIR$/src/myapp/add.py" />
+        <option value="$PROJECT_DIR$/src/testcases/api/test_pytest_homework.py" />
+        <option value="$PROJECT_DIR$/unitestdemos/ut_demo.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1242" />
+    <option name="y" value="30" />
+    <option name="width" value="1088" />
+    <option name="height" value="949" />
+  </component>
+  <component name="ProjectId" id="1Yk3vCNm11RihgFw7ckeF6gMslM" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonTest" type="462c0819:PsiDirectoryNode" />
+              <item name="unitestdemos" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\test\PythonTest\src\testcases\api" />
+      <recent name="D:\test\PythonTest\src\testcases\api\.pytest_cache" />
+      <recent name="D:\test\PythonTest\src\testcases" />
+      <recent name="D:\test\PythonTest\src\testcases\.pytest_cache" />
+      <recent name="D:\test\PythonTest\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\test\PythonTest\APITest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for ut_demo.Demo">
+    <configuration name="Unittests for ut_demo.Demo" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PythonTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unitestdemos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ut_demo.Demo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for ut_demo.Demo.test_demo" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PythonTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unitestdemos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ut_demo.Demo.test_demo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for testcases.api.test_pytest_object.TestPytestObject" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PythonTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testcases.api.test_pytest_object.TestPytestObject&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for testcases.api.test_pytest_object.TestPytestObject" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PythonTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/testcases/api/report" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testcases.api.test_pytest_object.TestPytestObject&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_pytest_homework.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PythonTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/testcases/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/testcases/api/test_pytest_homework.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_pytest_object.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PythonTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/testcases/api/report" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/testcases/api/test_pytest_object.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for testcases.api.test_pytest_object.TestPytestObject" />
+      <item itemvalue="Python tests.pytest in test_pytest_object.py" />
+      <item itemvalue="Python tests.pytest in test_pytest_homework.py" />
+      <item itemvalue="Python tests.Unittests for ut_demo.Demo" />
+      <item itemvalue="Python tests.Unittests for ut_demo.Demo.test_demo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for ut_demo.Demo" />
+        <item itemvalue="Python tests.Unittests for ut_demo.Demo.test_demo" />
+        <item itemvalue="Python tests.pytest in test_pytest_homework.py" />
+        <item itemvalue="Python tests.pytest in test_pytest_object.py" />
+        <item itemvalue="Python tests.pytest for testcases.api.test_pytest_object.TestPytestObject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af96024f-2d84-47ef-a6a6-cec6e256ddd7" name="Default Changelist" comment="" />
+      <created>1583472992536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583472992536</updated>
+      <workItem from="1583473007980" duration="2046000" />
+      <workItem from="1583476198216" duration="1583000" />
+      <workItem from="1583480488643" duration="2812000" />
+      <workItem from="1583716610454" duration="375000" />
+      <workItem from="1583717005350" duration="2155000" />
+      <workItem from="1584847888358" duration="862000" />
+      <workItem from="1584957359422" duration="1759000" />
+      <workItem from="1585044228225" duration="86000" />
+      <workItem from="1585314892232" duration="735000" />
+      <workItem from="1585315788874" duration="36000" />
+      <workItem from="1585316263782" duration="276000" />
+      <workItem from="1585987051043" duration="190000" />
+      <workItem from="1585989262716" duration="97000" />
+      <workItem from="1585989419641" duration="353000" />
+      <workItem from="1585991290511" duration="1367000" />
+      <workItem from="1586857643019" duration="298000" />
+      <workItem from="1586858152021" duration="133000" />
+      <workItem from="1586858307110" duration="17000" />
+      <workItem from="1586858431889" duration="28000" />
+      <workItem from="1586858698009" duration="114000" />
+      <workItem from="1586859724753" duration="103000" />
+      <workItem from="1587110971733" duration="48000" />
+      <workItem from="1588324471413" duration="1732000" />
+      <workItem from="1588326287562" duration="1801000" />
+      <workItem from="1588328120986" duration="1799000" />
+      <workItem from="1588330274746" duration="1121000" />
+      <workItem from="1588332439414" duration="1868000" />
+      <workItem from="1588336834111" duration="1120000" />
+      <workItem from="1588338658947" duration="1394000" />
+      <workItem from="1588342118098" duration="1733000" />
+      <workItem from="1588344022592" duration="1212000" />
+      <workItem from="1588496013532" duration="41000" />
+      <workItem from="1588497837406" duration="2341000" />
+      <workItem from="1588510291973" duration="16000" />
+      <workItem from="1588510330715" duration="41000" />
+      <workItem from="1588510394173" duration="32000" />
+      <workItem from="1588510449248" duration="48000" />
+      <workItem from="1588510554792" duration="3153000" />
+      <workItem from="1588514223110" duration="6759000" />
+      <workItem from="1588565463983" duration="446000" />
+      <workItem from="1591092375381" duration="805000" />
+      <workItem from="1591093430626" duration="108000" />
+      <workItem from="1591248482474" duration="1948000" />
+      <workItem from="1591250558340" duration="4000" />
+      <workItem from="1591931644241" duration="12344000" />
+      <workItem from="1592017828136" duration="594000" />
+      <workItem from="1594810537124" duration="14000" />
+      <workItem from="1595842983669" duration="643000" />
+      <workItem from="1596012945245" duration="16582000" />
+      <workItem from="1596188638945" duration="2515000" />
+      <workItem from="1597056508515" duration="1720000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_pytest_object_py - 2020.07.29 at 18h 56m 53s.xml">
+      <configuration name="pytest in test_pytest_object.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_pytest_homework_py - 2020.07.31 at 17h 49m 25s.xml">
+      <configuration name="pytest in test_pytest_homework.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_pytest_homework_py - 2020.07.31 at 17h 50m 02s.xml">
+      <configuration name="pytest in test_pytest_homework.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_pytest_homework_py - 2020.07.31 at 17h 51m 09s.xml">
+      <configuration name="pytest in test_pytest_homework.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_pytest_homework_py - 2020.07.31 at 18h 03m 22s.xml">
+      <configuration name="pytest in test_pytest_homework.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_pytest_homework_py - 2020.07.31 at 19h 46m 33s.xml">
+      <configuration name="pytest in test_pytest_homework.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_pytest_homework_py - 2020.08.10 at 18h 59m 36s.xml">
+      <configuration name="pytest in test_pytest_homework.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_ut_demo_Demo - 2020.08.10 at 19h 02m 32s.xml">
+      <configuration name="Unittests for ut_demo.Demo" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_ut_demo_Demo_test_demo - 2020.08.10 at 19h 10m 31s.xml">
+      <configuration name="Unittests for ut_demo.Demo.test_demo" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_ut_demo_Demo - 2020.08.10 at 19h 11m 51s.xml">
+      <configuration name="Unittests for ut_demo.Demo" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50154000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1242" y="30" width="1088" height="949" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49663526" visible="true" weight="0.21011673" />
+      <window_info id="Structure" order="1" sideWeight="0.50336474" side_tool="true" weight="0.20622568" />
+      <window_info id="Favorites" order="2" sideWeight="0.50238097" side_tool="true" weight="0.19649805" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" weight="0.32965687" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38602942" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3290735" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32976654" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49663526" visible="true" weight="0.20622568" />
+      <window_info id="Structure" order="1" sideWeight="0.50336474" side_tool="true" visible="true" weight="0.20622568" />
+      <window_info id="Favorites" order="2" sideWeight="0.50238097" side_tool="true" weight="0.19649805" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.083847106" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3290735" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="76" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585044315081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="76" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585044315081" />
+    <state x="106" y="77" key="FileChooserDialogImpl" timestamp="1586857664489">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="106" y="77" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586857664489" />
+    <state x="106" y="77" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585989493288" />
+    <state width="1222" height="200" key="GridCell.Tab.0.bottom" timestamp="1588344636588">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="215" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585044406123" />
+    <state width="1200" height="215" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585044456336" />
+    <state width="1222" height="200" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588344636588" />
+    <state width="1222" height="200" key="GridCell.Tab.0.center" timestamp="1588344636588">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="215" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585044406123" />
+    <state width="1200" height="215" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585044456335" />
+    <state width="1222" height="200" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588344636588" />
+    <state width="1222" height="200" key="GridCell.Tab.0.left" timestamp="1588344636588">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="215" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585044406123" />
+    <state width="1200" height="215" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585044456335" />
+    <state width="1222" height="200" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588344636588" />
+    <state width="1222" height="200" key="GridCell.Tab.0.right" timestamp="1588344636588">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="215" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585044406123" />
+    <state width="1200" height="215" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585044456336" />
+    <state width="1222" height="200" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588344636588" />
+    <state x="-38" y="0" width="998" height="680" key="SettingsEditor" timestamp="1585316512822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="122" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585044294475" />
+    <state x="2453" y="312" width="998" height="728" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583474959702" />
+    <state x="-38" y="0" width="998" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585316512822" />
+    <state x="326" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1588344022393">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="326" y="238" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586859747364" />
+    <state x="326" y="238" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1588344022393" />
+    <state x="168" y="60" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588324660953">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="168" y="60" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1588324660953" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_for_test_pytest_object_TestPytestObject.coverage" NAME="pytest for test_pytest_object.TestPytestObject Coverage Results" MODIFIED="1596019875308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/testcases/api/report" />
+    <SUITE FILE_PATH="coverage/PythonTest$Unittests_for_test_push_Test_test_send_to_traveler.coverage" NAME="Unittests for test_push.Test.test_send_to_traveler Coverage Results" MODIFIED="1584957520382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_for_test_send_test_msg_test_send_text_msg.coverage" NAME="pytest for test_send_test_msg.test_send_text_msg Coverage Results" MODIFIED="1591932503083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases/weiixn" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_for_test_send_test_msg_test_send_text_msg_without_msgtype.coverage" NAME="pytest for test_send_test_msg.test_send_text_msg_without_msgtype Coverage Results" MODIFIED="1591932519980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases/weiixn" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_for_test_upload_image_test_upload_image.coverage" NAME="pytest for test_upload_image.test_upload_image Coverage Results" MODIFIED="1591945198717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases/weiixn" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_for_test_pydemo_test_add.coverage" NAME="pytest for test_pydemo.test_add Coverage Results" MODIFIED="1596015095475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/testcases/api/report" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_for_test_send_test_msg_test_get_temporary_materials.coverage" NAME="pytest for test_send_test_msg.test_get_temporary_materials Coverage Results" MODIFIED="1591933068324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases/weiixn" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_in_test_send_test_msg_py.coverage" NAME="pytest in test_send_test_msg.py Coverage Results" MODIFIED="1591942331441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases/weiixn" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_in_test_pytest_object_py.coverage" NAME="pytest in test_pytest_object.py Coverage Results" MODIFIED="1596020212474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/testcases/api/report" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_in_test_Login_py.coverage" NAME="pytest in test_Login.py Coverage Results" MODIFIED="1588330437347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APITest" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_in_test_pydemo_py.coverage" NAME="pytest in test_pydemo.py Coverage Results" MODIFIED="1596015202332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/testcases/api/report" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_for_test_para_demo_test_add_by_paras.coverage" NAME="pytest for test_para_demo.test_add_by_paras Coverage Results" MODIFIED="1596017030334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/testcases/api" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_in_test_pytest_homework_py.coverage" NAME="pytest in test_pytest_homework.py Coverage Results" MODIFIED="1597057165467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/testcases/api" />
+    <SUITE FILE_PATH="coverage/PythonTest$var.coverage" NAME="var Coverage Results" MODIFIED="1584848520410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_for_test_push_test_sendToTraveler.coverage" NAME="pytest for test_push.test_sendToTraveler Coverage Results" MODIFIED="1585044456322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/PythonTest$Unittests_in_PythonTest.coverage" NAME="Unittests in PythonTest Coverage Results" MODIFIED="1583480986398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonTest$test_push.coverage" NAME="test_push Coverage Results" MODIFIED="1585044299504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_in_test_pytest_assume_py.coverage" NAME="pytest in test_pytest_assume.py Coverage Results" MODIFIED="1596017632169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/testcases/api" />
+    <SUITE FILE_PATH="coverage/PythonTest$Unittests_for_ut_demo_Demo_test_demo.coverage" NAME="Unittests for ut_demo.Demo.test_demo Coverage Results" MODIFIED="1597057831514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unitestdemos" />
+    <SUITE FILE_PATH="coverage/PythonTest$Login.coverage" NAME="Login Coverage Results" MODIFIED="1588330425259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APITest" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_for_test_pytest_assume_test_add2.coverage" NAME="pytest for test_pytest_assume.test_add2 Coverage Results" MODIFIED="1596017726556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/testcases/api" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_for_test_send_test_msg_test_send_image_msg.coverage" NAME="pytest for test_send_test_msg.test_send_image_msg Coverage Results" MODIFIED="1591936369293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases/weiixn" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_for_test_send_test_msg_test_get_picture.coverage" NAME="pytest for test_send_test_msg.test_get_picture Coverage Results" MODIFIED="1591935623536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases/weiixn" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_for_test_send_test_msg_test_get_materials.coverage" NAME="pytest for test_send_test_msg.test_get_materials Coverage Results" MODIFIED="1591934001436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases/weiixn" />
+    <SUITE FILE_PATH="coverage/PythonTest$Unittests_for_ut_demo_Demo.coverage" NAME="Unittests for ut_demo.Demo Coverage Results" MODIFIED="1597057911531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unitestdemos" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_for_test_rerun_demo_test_reun_add.coverage" NAME="pytest for test_rerun_demo.test_reun_add Coverage Results" MODIFIED="1596017963515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/testcases/api" />
+    <SUITE FILE_PATH="coverage/PythonTest$push.coverage" NAME="push Coverage Results" MODIFIED="1588329470296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_for_test_Login_test_Login.coverage" NAME="pytest for test_Login.test_Login Coverage Results" MODIFIED="1591093448461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APITest" />
+    <SUITE FILE_PATH="coverage/PythonTest$testDemo.coverage" NAME="testDemo Coverage Results" MODIFIED="1585315483483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/PythonTest$pytest_for_test_pytest_assume_test_add.coverage" NAME="pytest for test_pytest_assume.test_add Coverage Results" MODIFIED="1596017708778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/testcases/api" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/adapters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2566">
+          <caret line="448" selection-start-line="448" selection-end-line="448" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APITest/.pytest_cache/CACHEDIR.TAG">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APITest/.pytest_cache/v/cache/nodeids">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APITest/.pytest_cache/v/cache/stepwise">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testcases/weiixn/you.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APITest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_push.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/push.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-867" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfg/yaml.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testcases/api/test_pydemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testcases/api/test_pytest_param.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testcases/api/test_pytest_object.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testcases/api/calc.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testcases/api/test_calc_param.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testcases/api/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testcases/api/test_para_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="5" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testcases/api/test_pytest_homework.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testcases/api/test_pytest_assume.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testcases/api/test_rerun_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testcases/api/test_yaml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testcases/weiixn/test_upload_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testcases/weiixn/test_send_test_msg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="91" column="43" selection-start-line="91" selection-start-column="43" selection-end-line="91" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APITest/test_Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APITest/Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/testDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myapp/add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unitestdemos/ut_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
