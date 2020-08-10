@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af96024f-2d84-47ef-a6a6-cec6e256ddd7" name="Default Changelist" comment="" />
+    <list default="true" id="af96024f-2d84-47ef-a6a6-cec6e256ddd7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unitestdemos/ut_demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="152">
+              <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unitestdemos/example_class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -25,7 +37,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
+            <state relative-caret-position="810">
               <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
             </state>
           </provider>
@@ -39,6 +51,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -61,22 +76,23 @@
         <option value="$PROJECT_DIR$/src/myapp/add.py" />
         <option value="$PROJECT_DIR$/src/testcases/api/test_pytest_homework.py" />
         <option value="$PROJECT_DIR$/unitestdemos/ut_demo.py" />
+        <option value="$PROJECT_DIR$/unitestdemos/example_class.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1242" />
-    <option name="y" value="30" />
+    <option name="x" value="-1486" />
+    <option name="y" value="173" />
     <option name="width" value="1088" />
     <option name="height" value="949" />
   </component>
   <component name="ProjectId" id="1Yk3vCNm11RihgFw7ckeF6gMslM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,6 +109,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -102,6 +119,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
@@ -130,7 +148,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for ut_demo.Demo">
+  <component name="RunManager" selected="Python tests.Unittests for example_class.Simple_test">
+    <configuration name="Unittests for example_class.Simple_test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PythonTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unitestdemos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;example_class.Simple_test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests for ut_demo.Demo" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="PythonTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,22 +191,6 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;ut_demo.Demo.test_demo&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for testcases.api.test_pytest_object.TestPytestObject" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="PythonTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/testcases" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testcases.api.test_pytest_object.TestPytestObject&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -226,19 +243,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.pytest for testcases.api.test_pytest_object.TestPytestObject" />
       <item itemvalue="Python tests.pytest in test_pytest_object.py" />
       <item itemvalue="Python tests.pytest in test_pytest_homework.py" />
       <item itemvalue="Python tests.Unittests for ut_demo.Demo" />
       <item itemvalue="Python tests.Unittests for ut_demo.Demo.test_demo" />
+      <item itemvalue="Python tests.Unittests for example_class.Simple_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for example_class.Simple_test" />
         <item itemvalue="Python tests.Unittests for ut_demo.Demo" />
         <item itemvalue="Python tests.Unittests for ut_demo.Demo.test_demo" />
         <item itemvalue="Python tests.pytest in test_pytest_homework.py" />
         <item itemvalue="Python tests.pytest in test_pytest_object.py" />
-        <item itemvalue="Python tests.pytest for testcases.api.test_pytest_object.TestPytestObject" />
       </list>
     </recent_temporary>
   </component>
@@ -303,19 +320,11 @@
       <workItem from="1596012945245" duration="16582000" />
       <workItem from="1596188638945" duration="2515000" />
       <workItem from="1597056508515" duration="1720000" />
+      <workItem from="1597058831590" duration="952000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_pytest_object_py - 2020.07.29 at 18h 56m 53s.xml">
-      <configuration name="pytest in test_pytest_object.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_pytest_homework_py - 2020.07.31 at 17h 49m 25s.xml">
-      <configuration name="pytest in test_pytest_homework.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_pytest_homework_py - 2020.07.31 at 17h 50m 02s.xml">
-      <configuration name="pytest in test_pytest_homework.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_in_test_pytest_homework_py - 2020.07.31 at 17h 51m 09s.xml">
       <configuration name="pytest in test_pytest_homework.py" configurationId="tests" />
     </history-entry>
@@ -337,21 +346,29 @@
     <history-entry file="Unittests_for_ut_demo_Demo - 2020.08.10 at 19h 11m 51s.xml">
       <configuration name="Unittests for ut_demo.Demo" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_example_class_Simple_test - 2020.08.10 at 19h 36m 33s.xml">
+      <configuration name="Unittests for example_class.Simple_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_example_class_Simple_test - 2020.08.10 at 19h 38m 00s.xml">
+      <configuration name="Unittests for example_class.Simple_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_example_class_Simple_test - 2020.08.10 at 19h 42m 54s.xml">
+      <configuration name="Unittests for example_class.Simple_test" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50154000" />
+    <option name="totallyTimeSpent" value="51106000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1242" y="30" width="1088" height="949" extended-state="0" />
+    <frame x="-1486" y="173" width="1088" height="949" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49663526" visible="true" weight="0.21011673" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49663526" visible="true" weight="0.20525292" />
       <window_info id="Structure" order="1" sideWeight="0.50336474" side_tool="true" weight="0.20622568" />
       <window_info id="Favorites" order="2" sideWeight="0.50238097" side_tool="true" weight="0.19649805" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" weight="0.32965687" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38602942" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24294479" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -360,8 +377,9 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3290735" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32883435" />
       <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32965687" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -476,6 +494,7 @@
     <SUITE FILE_PATH="coverage/PythonTest$pytest_for_test_Login_test_Login.coverage" NAME="pytest for test_Login.test_Login Coverage Results" MODIFIED="1591093448461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APITest" />
     <SUITE FILE_PATH="coverage/PythonTest$testDemo.coverage" NAME="testDemo Coverage Results" MODIFIED="1585315483483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
     <SUITE FILE_PATH="coverage/PythonTest$pytest_for_test_pytest_assume_test_add.coverage" NAME="pytest for test_pytest_assume.test_add Coverage Results" MODIFIED="1596017708778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/testcases/api" />
+    <SUITE FILE_PATH="coverage/PythonTest$Unittests_for_example_class_Simple_test.coverage" NAME="Unittests for example_class.Simple_test Coverage Results" MODIFIED="1597059774632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unitestdemos" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/adapters.py">
@@ -643,15 +662,22 @@
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
+        <state relative-caret-position="810">
           <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/unitestdemos/ut_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="152">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unitestdemos/example_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
         </state>
       </provider>
     </entry>
