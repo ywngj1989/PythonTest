@@ -2,7 +2,11 @@ import logging
 import pytest
 from src.calc import Calc
 import yaml
-
+"""
+生成pytest-html的命令：打开cmd或者pycharm的terminal，cd到需要执行pytest用例的目录，执行命令： pytest --html=report.html
+生成allure-pytest的命令：打开cmd或者pycharm的terminal，cd到需要执行pytest用例的目录
+先：pytest --alluredir=/tmp/my_allure_results，后：allure serve /tmp/my_allure_results
+"""
 logging.basicConfig(level=logging.DEBUG)
 
 
@@ -65,3 +69,4 @@ class TestC:
 
 if __name__ == '__main__':
     pass
+
